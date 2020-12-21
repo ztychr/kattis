@@ -11,4 +11,6 @@ int main() {
     else
         printf("Alice");
 
+    return 0;
+
 }
